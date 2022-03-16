@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandipKurmi
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nodejs and React
 - 💞️ I’m looking to collaborate on nodejs project
 - 📫 How to reach me sandipkurmi0@gmail.com
 
