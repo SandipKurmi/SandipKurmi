@@ -1,27 +1,48 @@
-# 💫 About Me:
-<br>## Hi there, I'm Sandip! 👋<br><br>I'm a full-stack developer with experience in React, Angular, and Node.js. I'm passionate about building scalable and performant web applications using these technologies.<br><br>### 🔭 Currently Working On<br><br>I am currently working on:<br><br>- Developing web applications using React, Angular, and Node.js.<br>- Building reusable components and implementing complex UI logic with React.<br>- Creating RESTful APIs and server-side functionality with Node.js and Express.<br>- Optimizing application performance and scalability.<br><br>### 🌱 Currently Learning<br><br>I am actively learning and improving my skills in:<br><br>- Advanced React concepts such as Redux, React Router, and Hooks.<br>- Server-side development with Node.js, including authentication and database integration.<br>- Best practices for building scalable and maintainable Angular applications.<br>- Cloud platforms and deployment strategies for web applications.<br><br>### 💼 Experience<br><br>- **JavaScript Developer** at [self-employed], [Year - Present]<br>  - Developed React components and implemented frontend logic for web applications.<br>  - Collaborated with cross-functional teams to deliver high-quality products.<br>  - Worked on Node.js and Express to build server-side functionality and APIs.<br><br>- **Intern** at [Karma Technolabs], [2022]<br>  - Gained hands-on experience in React, Node.js, and Angular development.<br>  - Assisted in building and maintaining web applications.<br>  - Worked with senior developers to learn best practices and industry standards.<br><br>### 🚀 Skills<br><br>- Programming Languages: JavaScript, TypeScript<br>- Frontend: React, Angular, HTML, CSS<br>- Backend: Node.js, Express<br>- Databases: MongoDB, MySQL<br>- Version Control: Git, GitHub<br>- Testing: Jest, Mocha, Chai<br>- Tools: VS Code, Chrome DevTools<br><br>### 📫 How to Reach Me<br><br>- Email: [sandipkurmi0@gmail.com](mailto:sandipkurmi0@gmail.com)<br>- Twitter: [@sandipkurmi0](https://twitter.com/sandipkurmi0)<br>- LinkedIn: [Sandip Kurmi](https://www.linkedin.com/in/sandip-kurmi-1529a11a2/)<br>- Portfolio: [Stay tuned working...](#)<br><br>Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hi!<br><br>Happy coding with React, Angular, and Node.js! 🚀
+# Sandip Kurmi
 
+**Senior Software Engineer** · Ahmedabad, India
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sandip-kurmi-1529a11a2/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sandipkurmi0) 
+I build backends that scale and AI features that ship. Over four years I have designed microservices, event-driven systems and high-performance APIs, and integrated LLM capabilities into production business applications.
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SandipKurmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SandipKurmi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SandipKurmi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[Portfolio](https://sandipkurmi.github.io/about-me/) · [LinkedIn](https://www.linkedin.com/in/sandip-kurmi/) · [Email](mailto:sandipkurmi0@gmail.com)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SandipKurmi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## Current Focus
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<!--
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SandipKurmi&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
----
-[![](https://visitcount.itsvg.in/api?id=SandipKurmi&icon=0&color=0)](https://visitcount.itsvg.in)
+- Architecting a multi-tenant CRM platform at **CShare**: Node.js microservices, REST and GraphQL APIs, and tenant-level configuration.
+- Integrating LLMs (OpenAI API) into product workflows: email generation, interaction summaries and CRM insights.
+- Improving reliability and performance: query optimization, Redis caching, observability and CI/CD on AWS and Kubernetes.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Selected Work
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [ectd-pdf-validator](https://github.com/SandipKurmi/ectd-pdf-validator) | Enterprise-grade PDF validation service that checks files against eCTD PDF properties criteria using rule-based validation. | Python, FastAPI |
+| [Devstash](https://github.com/SandipKurmi/Devstash) | Developer knowledge hub for snippets, commands, prompts, notes, files, images, links and custom types. | TypeScript |
+| [minimal-ai-agent](https://github.com/SandipKurmi/minimal-ai-agent) | A coding agent in 67 lines of Python. No frameworks: a loop, XML tool calls, and Ollama or OpenRouter for inference. | Python, LLM |
+
+Further work includes a serverless ETL pipeline (AWS Lambda, S3, Glue, PostgreSQL) and a centralized log monitoring platform (ELK on Kubernetes). Much of my professional work is in private repositories.
+
+## Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Backend | Node.js, Express, FastAPI, REST, GraphQL, WebSockets, Microservices, Event-Driven Architecture |
+| Messaging | Kafka, RabbitMQ, Socket.IO |
+| Data | PostgreSQL, MySQL, MongoDB, Redis |
+| AI | OpenAI API, LLM integration, Prompt engineering |
+| Cloud and DevOps | AWS (Lambda, S3, Glue), Docker, Kubernetes, Terraform, GitHub Actions, ELK Stack |
+| Security | OAuth2, JWT, RBAC, Firebase Authentication |
+| Frontend | React, Angular |
+
+## Experience
+
+**Senior Software Engineer, CShare** (Apr 2023 – Present)
+Multi-tenant CRM platform, LLM-powered features, real-time systems and cloud-native deployments.
+
+**Node.js Developer, Karma Technolabs** (Feb 2022 – Apr 2023)
+Production REST APIs, Twilio SMS and Firebase push notification integrations, and a real-time Socket.IO chat application.
+
+## Education
+
+Master of Computer Applications, S. K. Patel Institute of Management and Computer Studies (Kadi Sarva University). First Class with Distinction.
