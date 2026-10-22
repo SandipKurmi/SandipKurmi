@@ -4,7 +4,7 @@
 
 I build backends that scale and AI features that ship. Over four years I have designed microservices, event-driven systems and high-performance APIs, and integrated LLM capabilities into production business applications.
 
-[Portfolio](https://sandipkurmi.github.io/about-me/) · [LinkedIn](https://www.linkedin.com/in/sandip-kurmi/) · [Email](mailto:sandipkurmi0@gmail.com)
+[Portfolio](https://sandipkurmi.github.io/about-me/) · [LinkedIn](https://www.linkedin.com/in/sandip-kurmi/) · [sandipkurmi0@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=sandipkurmi0@gmail.com)
 
 ## Current Focus
 
