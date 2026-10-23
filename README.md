@@ -42,7 +42,3 @@ Multi-tenant CRM platform, LLM-powered features, real-time systems and cloud-nat
 
 **Node.js Developer, Karma Technolabs** (Feb 2022 – Apr 2023)
 Production REST APIs, Twilio SMS and Firebase push notification integrations, and a real-time Socket.IO chat application.
-
-## Education
-
-Master of Computer Applications, S. K. Patel Institute of Management and Computer Studies (Kadi Sarva University). First Class with Distinction.
